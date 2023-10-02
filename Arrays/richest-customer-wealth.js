@@ -1,6 +1,6 @@
-//https://leetcode.com/problems/richest-customer-wealth/
-
 /**
+ * 
+ * https://leetcode.com/problems/richest-customer-wealth/
  * @param {number[][]} accounts
  * @return {number}
  */
