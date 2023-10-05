@@ -1,5 +1,9 @@
-//Function to find the duplicate items
-// How do you find duplicates from an unsorted array?
+/**
+ * 
+Function to find the duplicate items
+How do you find duplicates from an unsorted array?
+ */
+
 function findDuplicates(array) {
     const countMap = {};
     const duplicates = [];
